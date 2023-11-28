@@ -1,0 +1,15 @@
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [com.example.test.TestApplication] [36mStarting TestApplication using Java 17.0.8.1 with PID 10524 (D:\java\test\target\classes started by Administrator in D:\java\test)[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [com.example.test.TestApplication] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-11-28 11:42:25 [33mWARN [0;39m restartedMain] [org.mybatis.spring.mapper.ClassPathMapperScanner] [36mNo MyBatis mapper was found in '[com.example.test]' package. Please check your configuration.[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8088 (http)[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8088"][0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-11-28 11:42:25 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 693 ms[0;39m
+[2023-11-28 11:42:26 [32mINFO [0;39m restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-11-28 11:42:26 [32mINFO [0;39m restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8088"][0;39m
+[2023-11-28 11:42:26 [32mINFO [0;39m restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8088 (http) with context path ''[0;39m
+[2023-11-28 11:42:26 [32mINFO [0;39m restartedMain] [com.example.test.TestApplication] [36mStarted TestApplication in 1.484 seconds (process running for 1.832)[0;39m
